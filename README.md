@@ -1,4 +1,4 @@
-# autocomplete2
+# vue-modules
 
 ## Project setup
 ```
