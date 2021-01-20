@@ -1,4 +1,24 @@
-# vue-modules
+# vue-modules: Set of modules built using Vue 2
+
+![Welcome](/screenshots/welcome.png)
+
+## Modules included:
+
+1. Autocomplete
+
+![Autocomplete](/screenshots/autocomplete.png)
+
+2. Pricing
+
+![Pricing](/screenshots/pricing.png)
+
+3. Product Pricing
+
+![Product Pricing](/screenshots/product_pricing.png)
+
+4. Forms (Number Formatting)
+
+![Forms](/screenshots/forms.png)
 
 ## Project setup
 ```
@@ -14,11 +34,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
